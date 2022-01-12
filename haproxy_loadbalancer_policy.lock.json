@@ -1,5 +1,5 @@
 {
-  "revision_id": "4d25d58df640c9195d356d6740b60210df7765934fd9f4216599f0f96534ff2a",
+  "revision_id": "a1933e821e6fa81de5a31d99ea21965d1d1894b65e1240f7b5eac8b44805e175",
   "name": "haproxy_loadbalancer",
   "run_list": [
     "recipe[haproxy_loadbalancer::default]"
@@ -32,19 +32,18 @@
     },
     "haproxy_loadbalancer": {
       "version": "0.1.0",
-      "identifier": "d7fe5ab6d7c67f9c6785bcdf0d1433cbf57dfa44",
-      "dotted_decimal_identifier": "60796785560897151.44023920463908116.56951090051652",
+      "identifier": "4f9294260f567157a2885b822d60caa8ec026e00",
+      "dotted_decimal_identifier": "22397688151496305.24667029508336992.222826862898688",
       "source": ".",
       "cache_key": null,
       "scm_info": {
         "scm": "git",
         "remote": null,
-        "revision": "4de0db44be1f5ef2fabf62620e5f13f15b9c6f87",
+        "revision": "b035ddacfe63eddb0101792423c763c64c0bf476",
         "working_tree_clean": false,
-        "published": true,
+        "published": false,
         "synchronized_remote_branches": [
-          "origin/HEAD -> origin/main",
-          "origin/main"
+
         ]
       },
       "source_options": {
